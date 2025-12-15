@@ -11,6 +11,7 @@ require_once "auth_check.php";
 <h2>Welcome, <?= htmlspecialchars($_SESSION['username']) ?> 👋</h2>
 
 <p>This is the Employee Management System.</p>
+<a href="../employees/add_employee.php"><button> employees</button></a>
 
 <a href="logout.php">Logout</a>
 
