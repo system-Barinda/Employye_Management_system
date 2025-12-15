@@ -1,6 +1,6 @@
 <?php
 $host = "localhost";
-$db   = "Database: nextech_portal_24rp08563";
+$db   = "nextech_portal_24rp08563";
 $user = "root";
 $pass = "";
 
